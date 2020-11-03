@@ -10,7 +10,7 @@ Back-end for https://github.com/claudialigidakis/image-sharing_prototype
 
 ## Database Setup
 - Make sure you have PostgreSQL
-- Create a database on your local called `measureyes_dev`
+- Create a database on your local
   - createDB image-site
 - `npm run knex migrate:latest`
 - `npm run knex seed:run`
