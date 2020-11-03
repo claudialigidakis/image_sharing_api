@@ -1,7 +1,7 @@
 # ImageSharig - BackEnd
 Created Post, User and Auth routes for Image Sharing
 
-Back-end for https://github.com/claudialigidakis/image-sharing_prototype
+Back-end for https://github.com/claudialigidakis/image-sharing-prototype
 
 ## Installation
 - Fork and clone
