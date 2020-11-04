@@ -14,12 +14,12 @@ function getOne(postId){
   )
 }
 
-function create(ref_key, picture){
-    return (
-    knex('posts')
-    .insert({ref_key, picture})
-    .returning('*')
-    )
+function create(ref_key, path){
+  return (
+  knex('posts')
+  .insert({ref_key: ref_key, picture: path})
+  .returning('*')
+  )
 }
 
 module.exports = {getOne, getAll, create}
