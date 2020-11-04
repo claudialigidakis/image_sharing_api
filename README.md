@@ -1,4 +1,4 @@
-# ImageSharig - BackEnd
+# ImageSharing - BackEnd
 Created Post, User and Auth routes for Image Sharing
 
 Back-end for https://github.com/claudialigidakis/image-sharing-prototype
